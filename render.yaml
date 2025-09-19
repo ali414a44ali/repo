@@ -13,11 +13,11 @@ services:
     region: frankfurt
     envVars:
       - key: APP_ID
-        sync: "9671629"
+        sync: '9671629'
       - key: "be5c84e9dc1ca0e2b53d54b71e575124"
         sync: false
       - key: ALIVE_NAME
-        sync: "BiLaL"
+        sync: 'BiLaL'
       - key: ENV
         value: ANYTHING
       - key: STRING_SESSION
