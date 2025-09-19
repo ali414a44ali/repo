@@ -13,9 +13,9 @@ services:
     region: frankfurt
     envVars:
       - key: APP_ID
-        sync: false
+        value: "9671629"
       - key: API_HASH
-        sync: false
+        value: "be5c84e9dc1ca0e2b53d54b71e575124"
       - key: ALIVE_NAME
         sync: false
       - key: ENV
